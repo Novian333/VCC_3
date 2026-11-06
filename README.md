@@ -1,95 +1,96 @@
-# BloomByte Technologies
+
+### Smart Indoor Gardening Application
 
 **Industry:** Gardening & Technology
 
-## Project Description
+## Table of Contents
 
-BloomByte Technologies is a smart gardening application designed to help users care for their indoor plants. The project combines gardening and technology to make indoor plant care easier, more organized, and accessible.
+1. [About the Project](#about-the-project)
+2. [Project Features](#project-features)
+3. [Project Goals](#project-goals)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Technologies](#technologies)
+7. [Contributing](#contributing)
+8. [Credits](#credits)
+9. [License](#license)
+10. [Project Wiki](#project-wiki)
 
-The application aims to support beginners and experienced plant owners by providing helpful tools for managing daily plant-care activities. Users can identify indoor plants, schedule watering reminders, monitor plant growth, and receive personalized plant-care recommendations.
+---
 
-By bringing essential plant-care information together in one application, BloomByte Technologies aims to encourage healthier plants and better gardening habits.
+## About the Project
 
-## Features
+BloomByte Technologies is a smart gardening application designed to make indoor plant care easier, more organized, and accessible.
 
-### 1. Watering Reminders
-- Create watering schedules for indoor plants.
-- Receive reminders when plants need watering.
-- Maintain consistent plant-care routines.
+The project focuses on helping users maintain healthy indoor plants through useful gardening tools and personalized plant-care information.
 
-### 2. Plant Identification
-- Identify different types of indoor plants.
-- Access useful plant information.
-- Learn about individual plant-care requirements.
+The application brings together plant identification, watering reminders, growth tracking, and personalized plant-care recommendations in one convenient experience.
 
-### 3. Growth Tracking
-- Monitor plant development over time.
-- Record growth progress.
-- Keep track of changes in plant health and appearance.
+Whether users are new to indoor gardening or have experience caring for plants, the goal is to make everyday plant maintenance simpler and more manageable.
 
-### 4. Personalized Plant-Care Recommendations
-- Receive recommendations based on plant needs.
-- Learn about watering, lighting, and general care.
-- Improve indoor gardening practices.
+## Project Features
 
-## Project Objectives
+The application is designed around four main features:
 
-- Make indoor plant care simple and convenient.
-- Help users maintain healthy indoor plants.
-- Encourage consistent watering and maintenance routines.
-- Support plant identification and learning.
-- Provide an organized way to monitor plant growth.
-- Improve the indoor gardening experience through technology.
+- **Watering Reminders:** Help users remember when their indoor plants need watering.
+- **Plant Identification:** Help users identify plants and learn more about them.
+- **Growth Tracking:** Allow users to monitor and record plant growth over time.
+- **Personalized Plant-Care Recommendations:** Provide helpful care suggestions based on individual plant needs.
 
-## Target Users
+## Project Goals
 
-BloomByte Technologies is designed for:
+The main goals of BloomByte Technologies are to:
 
-- Beginners learning how to care for indoor plants.
-- Indoor gardening enthusiasts.
-- People with busy schedules who need watering reminders.
-- Plant owners interested in tracking plant growth.
-- Users looking for personalized plant-care guidance.
+- Make indoor plant care easier and more accessible.
+- Help users develop consistent plant-care routines.
+- Support better organization of plant information.
+- Encourage healthy plant growth through useful recommendations.
+- Combine gardening knowledge with technology.
 
 ## Installation
 
-This repository currently contains project documentation.
+To access the project repository:
 
-When the application source code is available, installation instructions, system requirements, dependencies, and setup procedures will be documented here.
+1. Make sure Git is installed on your computer.
+2. Open your terminal.
+3. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Novian333/VCC_3.git
+   ```
+
+4. Navigate to the project folder:
+
+   ```bash
+   cd VCC_3
+   ```
+
+5. Open the repository in your preferred code editor.
+
+This repository currently contains project documentation. Application setup requirements will be documented when the application source code is available.
 
 ## Usage
 
-The planned application will allow users to:
+BloomByte Technologies is designed to support indoor plant-care activities.
 
-1. Identify their indoor plants.
-2. Create watering schedules and reminders.
-3. Monitor plant growth and development.
-4. Review personalized plant-care recommendations.
-5. Maintain better indoor gardening routines.
+The planned application features include:
+
+1. Use plant identification to learn about indoor plants.
+2. Set watering reminders to maintain a regular care schedule.
+3. Track plant growth and keep records of progress.
+4. Follow personalized plant-care recommendations.
+
+These features describe the intended application functionality.
 
 ## Technologies
 
-The project documentation and development workflow may involve:
+**Project documentation and version control:**
 
-- HTML
-- CSS
-- JavaScript
 - Git
 - GitHub
-- Figma
+- Markdown
 
-*These technologies represent the development tools and skills relevant to the project, not a claim that all application features have already been implemented.*
-
-## Project Documentation – Wiki
-
-For more detailed information, visit the project Wiki:
-
-- [Home](../../wiki)
-- [Installation](../../wiki/Installation)
-- [Usage](../../wiki/Usage)
-- [Contributing](../../wiki/Contributing)
-
-The Wiki provides additional project information, setup guidance, usage instructions, contribution guidelines, and credits.
+The application technology stack will be documented as development progresses.
 
 ## Contributing
 
@@ -97,26 +98,32 @@ Contributions and suggestions are welcome.
 
 To contribute:
 
-1. Review the existing project documentation.
-2. Identify potential improvements or corrections.
-3. Create a branch for your proposed changes.
-4. Make your changes and provide clear commit messages.
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your updates.
+4. Commit your changes with a descriptive message.
 5. Submit a pull request for review.
 
-Please ensure that all contributions support the goals and purpose of BloomByte Technologies.
+Please keep contributions organized, readable, and relevant to the project.
+
+For additional guidelines, see the [Contributing Wiki](https://github.com/Novian333/VCC_3/wiki/Contributing).
 
 ## Credits
 
-- **Company:** BloomByte Technologies
+- **Project:** BloomByte Technologies
 - **Industry:** Gardening & Technology
-- **Project:** Smart indoor gardening application
-- **Documentation:** Prepared with AI assistance and reviewed by the project author.
-- **Version Control:** Git and GitHub.
+- **Project Concept:** Smart indoor gardening application.
+- **Project Features:** Watering reminders, plant identification, growth tracking, and personalized plant-care recommendations.
+- **Documentation and Version Control:** Git and GitHub.
 
 ## License
 
-This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Project Wiki
+
+Visit the [BloomByte Technologies Wiki](https://github.com/Novian333/VCC_3/wiki) for additional project information, installation instructions, usage guidelines, and contribution details.
 
 ---
 
-**BloomByte Technologies – Making indoor plant care smarter and easier.**˚
+© 2026 BloomByte Technologies. All rights reserved.
